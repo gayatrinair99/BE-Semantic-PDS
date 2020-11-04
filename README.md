@@ -1,14 +1,14 @@
 # BE-Semantic-PDS
 Semantic Plagiarism Detection System for English Texts
 
-CODE folder:
-dataloader.py - loads data from the training MSRPC 
-preprocess.py - preprocessing data in MSRPC
-try2.py - BiLSTM for paraphrase detection
-finalSimilarity2 - computes final similarity preceded by NER, semantic similarity using LSA, paraphrase detection using BiLSTM
-guiTrial2.py - Plagiarism detection GUI
-abstract.txt - sample input of self-made corpus containing abstracts from various research papers
-sherlock.txt - sample input containing random text data from the Internet
+CODES:
+1) dataloader.py - loads data from the training MSRPC 
+2) preprocess.py - preprocessing data in MSRPC
+3) try2.py - BiLSTM for paraphrase detection
+4) finalSimilarity2 - computes final similarity preceded by NER, semantic similarity using LSA, paraphrase detection using BiLSTM
+5) guiTrial2.py - Plagiarism detection GUI
+- abstract.txt - sample input of self-made corpus containing abstracts from various research papers
+- sherlock.txt - sample input containing random text data from the Internet
 *****
 
 EXECUTION process:
